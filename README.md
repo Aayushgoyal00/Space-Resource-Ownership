@@ -1,5 +1,8 @@
 # 🚀 Space Land Registry Platform
 
+## Visit Our Website [here](https://66b76ced6801ee42ec44e2cf--astro-claim.netlify.app/ 'here')
+ (Till now our website is not fully funtional and we are building it...)
+
 ## 🌍 Problem Statement
 
 As humanity progresses towards space exploration and potential colonization, a significant challenge arises: the legal, ethical, and practical aspects of land ownership and resource management on extraterrestrial bodies. Currently, there is no standardized or universally accepted framework for individuals or private entities to claim ownership, manage resources, or resolve disputes in space. This lack of clarity hinders innovation, investment, and efficient resource use in space exploration, potentially leading to conflicts and inefficiencies.
