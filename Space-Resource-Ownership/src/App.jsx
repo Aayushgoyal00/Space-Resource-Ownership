@@ -58,7 +58,7 @@ import RegisterLand from "./components/RegisterLand";
 import ViewLandDetails from "./components/ViewLandDetails";
 import Auction from "./components/Auction";
 import TransferLand from "./components/TransferLand";
-import './App.css'
+// import './App.css'
 
 function App() {
   return (

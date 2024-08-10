@@ -11,9 +11,9 @@ const Home = () => {
     <>
 
     
-    <header className="home-hero">
-          <div className="home-header1">
-            <h1>Own a piece of the universe, your legacy in the stars.</h1>
+    <header className="home-hero ">
+          <div className="home-header1 ">
+            <h1 className='text-6xl'>Own a piece of the universe, your legacy in the stars.</h1>
             <p className = "subtitle_1">
               Secure your slice of the universe and unlock endless possibilities
               with Astroclaim—where your legacy reaches beyond Earth.&nbsp;
@@ -21,9 +21,10 @@ const Home = () => {
           </div>
         </header>
         <img
+      
           src="./public/image2.jpg"
           alt="image"
-          className="home-image1"
+          className="home-image1 mt-0"
           
         />
         <div className="home-video"></div>
