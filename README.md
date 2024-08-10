@@ -26,3 +26,7 @@ Our project proposes a system where individuals and private organizations can cl
 
 <img title="a title" alt="Alt text" src="view_land.jpeg">
 
+## 4. Transfer your land 
+
+<img title="a title" alt="Alt text" src="transfer_land.jpg">
+
