@@ -1,6 +1,6 @@
 # 🚀 Space Land Registry Platform
 
-## Visit Our Website [here](https://66b76ced6801ee42ec44e2cf--astro-claim.netlify.app/ 'here')
+## Visit Our Website [here](https://66b7dd3bf205a49cb84fe1fc--astro-claim.netlify.app/ 'here')
  (Till now our website is not fully funtional and we are building it...)
 
 ## 🌍 Problem Statement
