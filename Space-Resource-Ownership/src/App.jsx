@@ -69,7 +69,7 @@ function App() {
             <header className="home-header">
               <nav data-thq="thq-navbar" className="home-navbar-interactive">
                 <div className="home-branding">
-                  <img alt="logo" src="./public/image1.jpg" className="home-logo" />
+                  <img alt="logo" src="/images/image1.jpg" className="home-logo" />
                   <Link to="" className="nav-link">AstroClaim</Link>
                 </div>
                 <div className="home-items">
@@ -78,9 +78,9 @@ function App() {
                   <Link to="/register-land" className="nav-link">Land Claim</Link>
                   <Link to="/transfer-land" className="nav-link">Transfer Land</Link>
                 </div>
-                <button className="start-button button home-button">
+                {/* <button className="start-button button home-button">
                   <span>Login</span>
-                </button>
+                </button> */}
                 <div data-thq="thq-burger-menu" className="home-burger-menu">
                   <button className="home-button1 button">
                     <img alt="menu" src="./hamburger.svg" className="home-image" />

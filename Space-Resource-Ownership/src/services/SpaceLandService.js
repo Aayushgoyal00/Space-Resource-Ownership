@@ -881,3 +881,4 @@ export class SpaceLandService {
     return this.auction.methods.endAuction(landId).send({ from: fromAddress });
   }
 }
+export default LAND_REGISTRY_ABI;
