@@ -50,6 +50,29 @@ To run this project locally:
    git clone https://github.com/your-username/space-land-registry.git
    cd space-land-registry
 
+2. *Install Dependencies*:
+   ```bash
+     npm install
+
+3. Install MetaMask or Another Web3 Wallet:
+
+Ensure you have MetaMask or another Web3-compatible wallet installed in your browser. This is necessary to interact with the blockchain.
+
+4. *Run the Application*:
+   ```bash
+     npm start
+
+5. Open in Browser:
+   Navigate to http://localhost:3000 to view the application.
+
+6. Connect Your Web3 Wallet:
+
+  When prompted, connect your MetaMask or another Web3 wallet to start using the DApp.
+
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page and create a new one if you have ideas to improve the project.
+
 ## Some features of our website
 
 ## 1. Home Page
