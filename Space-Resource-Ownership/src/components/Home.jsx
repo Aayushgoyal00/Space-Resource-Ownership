@@ -22,7 +22,7 @@ const Home = () => {
         </header>
         <img
       
-          src="./public/image2.jpg"
+          src="/images/image2.jpg"
           alt="image"
           className="home-image1 mt-0"
           
