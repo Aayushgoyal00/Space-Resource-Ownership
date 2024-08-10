@@ -91,3 +91,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 <img title="a title" alt="Alt text" src="transfer_land.jpg">
 
+## 5. Proof of work (Blockchain)
+
+<img title="a title" alt="Alt text" src="Presentaion photo and video/Screenshot 2024-08-10 050627.png">
+<img title="a title" alt="Alt text" src="Presentaion photo and video/Screenshot 2024-08-10 051340.png">
