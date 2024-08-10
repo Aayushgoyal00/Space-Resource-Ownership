@@ -40,3 +40,100 @@
 .read-the-docs {
   color: #888;
 }
+/* App.css */
+
+.home-container {
+  font-family: Arial, sans-serif;
+}
+
+.home-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.home-navbar-interactive {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-branding {
+  display: flex;
+  align-items: center;
+}
+
+.home-logo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.home-items {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-link {
+  color: white;
+  cursor: pointer;
+}
+
+.home-button {
+  background-color: #61dafb;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.home-burger-menu {
+  display: none; /* Hidden by default, usually shown in mobile view */
+}
+
+.home-mobile-menu {
+  display: none; /* Mobile menu hidden by default */
+}
+
+.home-menu-close {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .home-items {
+    display: none; /* Hide desktop menu items */
+  }
+
+  .home-burger-menu {
+    display: block; /* Show burger menu in mobile view */
+  }
+
+  .home-mobile-menu {
+    display: flex; /* Show mobile menu when opened */
+    flex-direction: column;
+    background-color: #282c34;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .home-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .home-links1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 50px;
+  }
+
+  .home-logo1 {
+    width: 40px;
+  }
+}
