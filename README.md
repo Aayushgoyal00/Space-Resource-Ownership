@@ -1,7 +1,7 @@
 # 🚀 Space Land Registry Platform
 
 ## Visit Our Website [here](https://66b81958cc7773ced5d9bde7--astro-claim.netlify.app/ 'here')
- (Till now our website is not fully funtional and we are building it...)
+ (*Note that to use this website you need to have Metamask extension installed in the browser and connected to Sepolia Testnet.*)
 
 ## 🌍 Problem Statement
 
