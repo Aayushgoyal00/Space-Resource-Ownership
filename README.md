@@ -1,4 +1,4 @@
-# 🚀 Space Land Registry Platform
+# 🚀 Space Land Registry And Auction Platform
 
 ## Visit Our Website [here](https://66b81958cc7773ced5d9bde7--astro-claim.netlify.app/ 'here')
  (*Note that to use this website you need to have Metamask extension installed in the browser and connected to Sepolia Testnet.*)
